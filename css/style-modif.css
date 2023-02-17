@@ -1,0 +1,22 @@
+.skin-blue .main-header .navbar {
+    background-color: #B7292F;
+}
+.img-fluid{
+    padding: 1em;
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 360px;
+}
+.img-fluid-minilogo{
+    max-width: 30px;
+    max-height: 30px;
+    border-radius: 360px;
+}
+.main-header > .navbar {
+  height: 15vh;
+    border-radius: 0% 0% 30px 30px;
+  }
+  .main-header > .logo {
+    height: 15vh;
+    
+    }
